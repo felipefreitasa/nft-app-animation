@@ -9,14 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/nunito-sans": "^0.2.3",
+    "@expo/vector-icons": "^13.0.0",
+    "@types/styled-components-react-native": "^5.2.1",
     "expo": "~48.0.15",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.7"
+    "react-native": "0.71.7",
+    "react-native-reanimated": "~2.14.4",
+    "styled-components": "^5.3.10"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@types/react": "~18.0.14",
+    "@types/styled-components": "^5.1.26",
     "typescript": "^4.9.4"
   },
   "private": true
