@@ -14,6 +14,7 @@ https://user-images.githubusercontent.com/77179768/234957558-3e5b9d65-fb53-4fc5-
 - React Native Reanimated
 - Styled Components
 - Expo Google Fonts
+- Expo Vector Icons
 
 
 
